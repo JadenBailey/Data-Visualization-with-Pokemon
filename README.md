@@ -1,4 +1,4 @@
-# Data Visualization with Pokemon (Work in Progress)
+# Data Visualization with Pokemon (Work in Progress 12/2/19)
 
 ![Pokemon Stats](https://img.rankedboost.com/wp-content/uploads/2018/10/Pokemon-Lets-Go-Stats.jpg)
 
