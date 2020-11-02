@@ -1,4 +1,4 @@
-# Researcher Jaden's Pokemon Analysis (Work in Progress 11/1/20)
+# Researcher Jaden's Pokemon Analysis
 
 Data & Code for my Pokemon Data Analysis using Pandas, Numpy, and Matplotlib.
 
