@@ -1,7 +1,7 @@
-# Data Visualization with Pokemon (Work in Progress 12/2/19)
+# Researcher Jaden's Pokemon Analysis (Work in Progress 11/1/20)
 
 ![Pokemon Stats](https://img.rankedboost.com/wp-content/uploads/2018/10/Pokemon-Lets-Go-Stats.jpg)
 
-Using Pandas and Matplotlib to visualize Pokemon stat data (Gen 1-6).
+Data & Code for my Pokemon Data Analysis using Pandas, Numpy, and Matplotlib.
 
-As a huge fan of Pokemon, this is a fun project for me to work on.
+This is a project I have been working on to show off my knowledge of Python and its libraries.
